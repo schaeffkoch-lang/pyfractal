@@ -1,0 +1,1 @@
+scipy.exp(x-1)*scipy.cos(scipy.pi*y), scipy.exp(x-1)*scipy.sin(scipy.pi*y) 

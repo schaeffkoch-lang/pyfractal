@@ -1,0 +1,1 @@
+phi/scipy.pi*scipy.sin(scipy.pi*r), phi/scipy.pi*scipy.cos(scipy.pi*r)

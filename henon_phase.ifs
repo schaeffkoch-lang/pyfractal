@@ -1,0 +1,1 @@
+x*scipy.cos(1.57)-(y-x**2)*scipy.sin(1.57), x*scipy.sin(1.57)+(y-x**2)*scipy.cos(1.57);1.0

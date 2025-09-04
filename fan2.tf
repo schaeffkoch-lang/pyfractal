@@ -1,0 +1,1 @@
+r*scipy.sin(phi-scipy.pi*x**2/2), r*scipy.cos(phi-scipy.pi*y**2/2)

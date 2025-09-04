@@ -1,0 +1,1 @@
+(psi_1+psi_2-1)*scipy.cos(2*scipy.pi*x+psi_1), (psi_1+psi_2-1)*scipy.sin(2*scipy.pi*y+psi_1)

@@ -1,0 +1,1 @@
+scipy.cos(scipy.pi*x)*scipy.cosh(y), -scipy.sin(scipy.pi*x)*scipy.sinh(y)

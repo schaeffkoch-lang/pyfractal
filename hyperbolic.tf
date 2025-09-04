@@ -1,0 +1,1 @@
+scipy.sin(phi)/(r+10**(-6)), r*scipy.cos(phi)

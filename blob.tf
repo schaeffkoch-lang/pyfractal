@@ -1,0 +1,1 @@
+r*(1+0.5*(scipy.sin(5*phi)+1))*scipy.cos(phi), r*(1+0.5*(scipy.sin(5*phi)+1))*scipy.sin(phi)

@@ -1,0 +1,1 @@
+r*(scipy.sin(phi+r)**3+scipy.cos(phi-r)**3), r*(scipy.sin(phi+r)**3-scipy.cos(phi-r)**3)

@@ -1,0 +1,1 @@
+r**(3/2.0)*scipy.cos((omega+2*scipy.pi*int(2*psi_1))/3.0), r**(3/2.0)*scipy.sin((omega+2*scipy.pi*int(2*psi_1))/3.0)

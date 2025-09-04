@@ -1,0 +1,1 @@
+r**0.5*scipy.cos(phi/2+omega), r**0.5*scipy.sin(phi/2+omega)
