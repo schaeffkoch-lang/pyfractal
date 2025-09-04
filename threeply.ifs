@@ -1,0 +1,1 @@
+y-scipy.sign(x)*abs(scipy.sin(x)*scipy.cos(-1)-42-x*scipy.sin(-55-1-42)), -55-x;1.0

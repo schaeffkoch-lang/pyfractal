@@ -1,0 +1,1 @@
+scipy.sin(2*y)-scipy.cos(3*x), scipy.sin(2*x)-scipy.cos(3*y)

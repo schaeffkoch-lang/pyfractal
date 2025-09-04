@@ -1,0 +1,1 @@
+5/(5-y*scipy.sin(3))*x, 5/(5-y*scipy.sin(3))*y*scipy.cos(3)

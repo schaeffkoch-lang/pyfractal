@@ -1,0 +1,1 @@
+r*scipy.cos(r*x), r*scipy.sin(r*y)

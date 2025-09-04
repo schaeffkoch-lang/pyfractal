@@ -1,0 +1,1 @@
+scipy.sin(0.3*x-0.6*y), scipy.cos(0.6*x-0.3*x)

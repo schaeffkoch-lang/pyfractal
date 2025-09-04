@@ -1,0 +1,1 @@
+0.1*scipy.tan(psi_1*scipy.pi*0.1)/(r**2+10**(-9))*scipy.cos(x), 0.1*scipy.tan(psi_1*scipy.pi*0.1)/(r**2+10**(-9))*scipy.sin(y)

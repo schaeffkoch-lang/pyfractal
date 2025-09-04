@@ -1,0 +1,1 @@
+(6*(1/scipy.cos(omega-2*scipy.pi/omega)-1)+3)/(r**4+0.0000001)*x, (6*(1/scipy.cos(omega-2*scipy.pi/omega)-1)+3)/(r**4+0.0000001)*y

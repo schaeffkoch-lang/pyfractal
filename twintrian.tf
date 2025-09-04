@@ -1,0 +1,1 @@
+(scipy.log(scipy.sin(psi_1*r*0.1)**2)+scipy.cos(psi_1*r*0.1))*x, x*((scipy.log(scipy.sin(psi_1*r*0.1)**2)+scipy.cos(psi_1*r*0.1)-scipy.pi*scipy.sin(psi_1*r*0.1)))

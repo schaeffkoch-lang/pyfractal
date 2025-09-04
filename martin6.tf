@@ -1,0 +1,1 @@
+r*scipy.log(abs(x)), r*scipy.log(abs(y))

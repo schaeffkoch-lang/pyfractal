@@ -1,0 +1,1 @@
+x*scipy.sin(x**2+y**2)-y*scipy.cos(x**2+y**2), x*scipy.cos(x**2+y**2)+y*scipy.sin(x**2+y**2)

@@ -1,0 +1,1 @@
+3*scipy.sin(r)**2*psi_1, 3*scipy.cos(r)*psi_1

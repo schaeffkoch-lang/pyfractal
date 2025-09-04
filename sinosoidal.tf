@@ -1,0 +1,1 @@
+scipy.sin(x), scipy.sin(y)
